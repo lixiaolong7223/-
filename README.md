@@ -13,8 +13,11 @@ For more information, please check Tuya Developer Website.
     2、定量投喂。
     3、远程控制投喂。
     4、能实时掌握粮桶余粮。
-    。。。。。
-
+    主要模块为：
+   1、[Wi-Fi 通信板（VWXR2）通信板
+   2、Wi-Fi MCU 通信板（WB3S）
+   3、H桥直流电机驱动功能板
+   4、直流供电电源板。
 
 三、开发计划3月25前完成.
 
@@ -22,7 +25,9 @@ For more information, please check Tuya Developer Website.
    由于本人是涂鸦智能老用户故此步骤省略账号信息为：lixiaolong7223@126.com。
    
    
-2）产品创建： 
+2）产品创建：
+目前已经完成产品的创建
+产品 ID：rdorx9cpc9ix9gk7
 
 
 
