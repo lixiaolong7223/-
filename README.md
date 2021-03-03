@@ -19,8 +19,14 @@ For more information, please check Tuya Developer Website.
 三、开发计划3月25前完成.
 1）云平台账号申请：
    由于本人是涂鸦智能老用户故此步骤省略账号信息为：lixiaolong7223@126.com。
+   
+   
 2）产品创建： 
 
+
+
 2）3月1-20日嵌入式开发、云开发
+
+
 3）3月15日前整体调试。
 
