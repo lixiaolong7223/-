@@ -2,6 +2,9 @@ This project is developed using Tuya SDK, which enables you to quickly develop
 branded apps connecting and controlling smart scenarios of many devices.        
 For more information, please check Tuya Developer Website.
 
+[English](README.md)|[中文](README_CN.md)
+
+
 1. Program title: Pet feeder
 Second, project application scenario where: use in the home With the improvement of our living standard, more and more working families keep a pet cat, facing the 669 time, cat is busy in the home, can only wait for the owner of the house to hurl food feeding, or hurl food feeding before work, thus causing the cat cat nutrition uneven, or in the owner because the job is too tired to care after work.Based on the problem of my solution is based on graffiti provides the module of secondary development, completed a smart feed the cat, payroll, timing quantitative finish can be implemented at the same time support for remote operation of automatic feeding and voice feeding a very good solution to solve the feeding out trouble, let pet? No one inside the home, also need not hungry again waiting for, is to go out to travel, or work overtime, or is on a business trip, don't have to worry about the pet will be hungry.Function:
        1. Timely feeding.
