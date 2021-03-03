@@ -2,45 +2,25 @@ This project is developed using Tuya SDK, which enables you to quickly develop
 branded apps connecting and controlling smart scenarios of many devices.        
 For more information, please check Tuya Developer Website.
 
-一、方案标题
-宠物喂食器
+1. Program title: Pet feeder
+Second, project application scenario where: use in the home With the improvement of our living standard, more and more working families keep a pet cat, facing the 669 time, cat is busy in the home, can only wait for the owner of the house to hurl food feeding, or hurl food feeding before work, thus causing the cat cat nutrition uneven, or in the owner because the job is too tired to care after work.Based on the problem of my solution is based on graffiti provides the module of secondary development, completed a smart feed the cat, payroll, timing quantitative finish can be implemented at the same time support for remote operation of automatic feeding and voice feeding a very good solution to solve the feeding out trouble, let pet? No one inside the home, also need not hungry again waiting for, is to go out to travel, or work overtime, or is on a business trip, don't have to worry about the pet will be hungry.Function:
+       1. Timely feeding.
+       2, quantitative feeding.
+       3. Remote control feeding.
+       4. Able to grasp the surplus grain in the grain barrel in real time.
+The main modules are:
 
-二、方案应用场景
-地点：家中使用
-    随着我们生活水平的提高，越来越多的工薪家庭养起了宠物猫来，面对着669的上班时间，家中的猫就无暇顾及，只能等家中的主人回来才能进行投食喂养，或者在上班之前投食喂养，这样就造成猫猫的营养不均匀，或者在主人下班后由于工作太累而无暇顾及。基于此问题我的解决方案是基于涂鸦提供的模组进行二次开发，完成一台智能喂猫器，能够实现定时定量完成出粮操作，同时支持远程操作自动投喂和语音投喂很好的解决外出喂食的烦恼，让宠物呢在家里面没有人的时候，也不用再挨饿等待了，其实是外出旅行，或者是工作加班，或者是出差，都不用担心宠物会被饿到。
-    功能：
-   
-   1、定时投喂。
-   
-    2、定量投喂。
-    
-    3、远程控制投喂。
-    
-    4、能实时掌握粮桶余粮。
-    
-    主要模块为：
-    
-   1、[Wi-Fi 通信板（VWXR2）通信板
-   
-   2、Wi-Fi MCU 通信板（WB3S）
-   
-   3、H桥直流电机驱动功能板
-   
-   4、直流供电电源板。
+        1, [Wi-Fi communication board (VWXR2) communication board
 
-三、开发计划3月25前完成.
+        2, Wi-Fi MCU communication board (WB3S)
 
-1）云平台账号申请：
-   由于本人是涂鸦智能老用户故此步骤省略账号信息为：lixiaolong7223@126.com。
-   
-   
-2）产品创建：
-目前已经完成产品的创建
-产品 ID：rdorx9cpc9ix9gk7
+        3, H bridge DC motor drive function board
 
+        4, DC power supply board.
 
-2）3月1-20日嵌入式开发、云开发
+3. The development plan shall be completed before March 25.
 
-
-3）3月15日前整体调试。
-
+    1) Application for a cloud platform account: As I am an old user of Tuo Smart, the account information I omitted in this step is: lixiaolong7223@126.com.
+    2) Product creation: the creation of the product has been completed at present. Product  ID：rdorx9cpc9ix9gk7
+    2) March 1-20 Embedded development and cloud development
+    3) Overall commissioning before March 15.
